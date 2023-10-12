@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\Luckey\source\repos\CurrentProcessDllParser\CurrentProcessDllParser\Source.cpp(40): error C4700: uninitialized local variable 'dllEnd' used
